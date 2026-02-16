@@ -6,8 +6,6 @@
 
 <img src="./gif/Cat Working GIF.gif" src="GIF video of a cat pawing at a keyboard, as if it's typing something furiously">
 
-</div>
-
 ## 🧠 Abount me
 
 <ul>
@@ -16,12 +14,13 @@
   <li>💻 Fullstack Developer (Python & TypeScript)</li>
   <li>🐧 Linux & Kali User</li>
   <li>📸 Sharing my journey on <a href="https://www.instagram.com/golfetto.zh/" target="_blank">Instagram</a></li>
+  <li>✉️ Call me on <a href="mailto:rubensgolfettozh@gmail.com">email</a></li>
 </ul>
-
 
 ## 🛠️ My Workstation
 
 > <table>
+
   <tr>
     <td align="center" width="150"><strong>Main Languages</strong></td>
     <td align="center" width="150"><strong>Environment / OS</strong></td>
@@ -43,3 +42,5 @@
     </td>
   </tr>
 </table>
+
+</div>
