@@ -7,6 +7,9 @@
 <img src="./gif/Cat Working GIF.gif" src="GIF video of a cat pawing at a keyboard, as if it's typing something furiously">
 
 ## 🧠 Abount me
+</div>
+
+<div align="start">
 
 <ul>
   <li>✨ Building Haze-Nexus</li>
@@ -16,6 +19,10 @@
   <li>📸 Sharing my journey on <a href="https://www.instagram.com/golfetto.zh/" target="_blank">Instagram</a></li>
   <li>✉️ Call me on <a href="mailto:rubensgolfettozh@gmail.com">email</a></li>
 </ul>
+
+</div>
+
+<div align="center">
 
 ## 🛠️ My Workstation
 
