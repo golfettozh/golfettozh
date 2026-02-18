@@ -6,11 +6,11 @@
 
 <img src="./gif/Cat Working GIF.gif" src="GIF video of a cat pawing at a keyboard, as if it's typing something furiously">
 
-## 🧠 Abount me
 </div>
-
 <div align="start">
-
+  
+## 🧠 Abount me
+  
 <ul>
   <li>✨ Building Haze-Nexus</li>
   <li>🛡️ Pentesting Apprentice & Security Enthusiast</li>
