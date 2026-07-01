@@ -6,14 +6,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=22&center=true&vCenter=true&width=700&lines=Hi,+I'm+golfettozh+👋;Information+Systems+student;Full-Stack+%26+Engineer;From+Faxinalzinho,+RS+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/golfettozh)
 
-<a href="https://www.instagram.com/golfettozh/" target="_blank">
+<a href="https://www.instagram.com/golfetto.zh/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-golfettozh-6474B9?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.tiktok.com/@golfettozh" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-golfettozh-6474B9?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
-&nbsp;
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=golfettozh&color=6474B9&style=for-the-badge&label=Profile+Views&base=56000&abbreviated=true"/>
 <img src="https://komarev.com/ghpvc/?username=golfettozh&color=6474B9&style=for-the-badge&label=Total+Stars&base=0&abbreviated=true&type=stars"/>
