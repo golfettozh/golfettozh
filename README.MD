@@ -63,14 +63,6 @@
 
 </div>
 
-- ### 🎯 On my radar (Technologies I plan to study soon)
-<div align="center">
-
-![Ruby](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-
-</div>
-
 <a href="https://github.com/golfettozh">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D1B69&height=160&section=footer&text=What+I+don't+know,+give+me+a+few+days&fontSize=22&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
 </a>
