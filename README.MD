@@ -23,8 +23,6 @@
 ## 📊 GitHub Stats
 <div align="center">
     <img height="220px" src="https://awesome-github-stats.azurewebsites.net/user-stats/golfettozh?cardType=level-alternate&background=0a0c10&border=6474B9&ring=6474B9&title=6474B9&text=937CD5&icon=937CD5" alt="golfettozh's GitHub Stats"/>
-  &nbsp;
-    <img src="https://api.daily.dev/devcards/v2/1iwIWKbxSocNZyxTyQbF2.png?type=default&r=guk" width="356" alt="golfettozh's Dev Card"/>
 </div>
 
 <div align="center">
@@ -48,7 +46,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonAWS&logoColor=white)
+![AWS](https://img.shields.io/badge/DOCKER-316169?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
