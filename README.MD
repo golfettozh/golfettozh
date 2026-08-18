@@ -9,9 +9,6 @@
 <a href="https://www.instagram.com/golfetto.zh/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-gftcode-6474B9?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.tiktok.com/@gftcode" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-gftcode-6474B9?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
 
 <br>
 
